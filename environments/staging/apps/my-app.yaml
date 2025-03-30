@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/mos2/test-argocd-rancher.git
+    repoURL: https://github.com/mos2dl/test-argocd-rancher.git
     targetRevision: HEAD
     path: environments/staging/my-app
   destination:
